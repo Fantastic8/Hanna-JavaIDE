@@ -1,14 +1,22 @@
 # Hanna - JavaIDE
 
-One Paragraph of project description.
+A light version of open source Java IDE built with Java.
+
+![Hanna Program](https://raw.githubusercontent.com/Fantastic8/Hanna-JavaIDE/master/media/Hanna_program1.png)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live syste.
+Clone the repository.
+
+```
+git clone https://github.com/Fantastic8/Hanna-JavaIDE.git
+```
+
+Import project in "Hanna" folder to your IDE. (Note: there are some Chinese comment inside the source code but it won't affect runtime of program)
 
 ## Prerequisites
 
-What things you need to install the software and how to install them.
+Java JDK 8+
 
 
 ## Installing
