@@ -2,78 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202a0bef-9383-420c-92ea-492bbeac0320" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/data/FileNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/data/OriPage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/data/OriPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/About.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/ConsolePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/EditPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FilePanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FilePanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FilePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$1$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$1$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FileTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/FindReplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$12$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$12$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/Hanna.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/OrientationPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/OrientationPanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/OrientationPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/SelectTextPane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/gui/TreeRenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/interfaces/FileEvents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/interfaces/PagePanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/tools/CopyCutPaste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/tools/Global.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/tools/HannaTheme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hanna/tools/Tool.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -89,8 +17,9 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -117,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gui/Hanna.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="67" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -210,16 +139,18 @@
       <updated>1561614322349</updated>
       <workItem from="1561614323580" duration="3177000" />
       <workItem from="1561680071340" duration="607000" />
+      <workItem from="1561851423367" duration="314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3784000" />
+    <option name="totallyTimeSpent" value="4098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="958" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/Hanna.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="67" selection-end-column="37" />
         </state>
       </provider>
     </entry>

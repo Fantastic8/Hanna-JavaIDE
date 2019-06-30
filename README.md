@@ -21,32 +21,29 @@ Java JDK 8+
 
 ## Usage
 
-Add additional notes about how to deploy this on a live system.
+Home Page
+
+![label](https://raw.githubusercontent.com/Fantastic8/Hanna-JavaIDE/master/media/Hanna_label.png)
+
+1. Menu Bar
+<br>All the tools and their shortcuts can be found at Menu Bar. Users can create new files, edit files, search and replace string, compile and run Java code. 
+2. File Explorer
+<br>Users can find their target files in File Explorer in a convenient way.
+3. File Panel
+<br>Users write Java code in this panel.
+4. Concole
+<br>Display outputs of Java program and error messages.
+
 
 ## Architecture
 
-+ SSH - Back end Framework
-+ BootStrap - Front end Framework
+![](https://raw.githubusercontent.com/Fantastic8/Hanna-JavaIDE/master/media/architecture.jpg)
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](#) for versioning. For the versions available, see the [tags on this repository](#).
 
 ## Authors
 
 + Mark Zhang - Initial work
 
-See also the list of [contributors](#) who participated in this project.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](#) file for details.
 
 ## Acknowledgments
 + Hat tip to anyone who's code was used
