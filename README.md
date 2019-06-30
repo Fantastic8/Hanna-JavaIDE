@@ -42,10 +42,13 @@ Home Page
 
 ## Authors
 
-+ Mark Zhang - Initial work
++ Mark Zhang (Team Leader） - Architecture, Console, UI, File Editor.
++ Yongjian Lu - File Explorer, Menu Bar.
++ Xue Peng - Project Design Specification, Demand analysis specification.
++ Zi Yan - Document Function.
++ Xuliang Tan - Documentation
 
 
 ## Acknowledgments
-+ Hat tip to anyone who's code was used
-+ Inspiration
-+ etc
+
+This project has been supported by Oracle and advised by Mr. Li
